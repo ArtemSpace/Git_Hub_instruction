@@ -1,10 +1,10 @@
 ## Основные команды
 
-* git add
+* git init
+
+* git add - 
 
 * git commit -m
-
-* git init
 
 * git clone
 
